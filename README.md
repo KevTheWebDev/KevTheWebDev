@@ -6,7 +6,7 @@
 - <b>PowerShell</b>
 - <b>C# (.NET Desktop Applications)</b>
 - <b>Python</b>
-- [Google Flights Price Updater with Telegram Notification Functionality]()
+-  [Google Flights Price Updater with Telegram Notification Functionality]()
 
 
 <h2> 🚀 Connect with me:</h2>
