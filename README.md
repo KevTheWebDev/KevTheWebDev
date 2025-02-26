@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevTheWebDev">Programmer</a> & <a href="(https://www.linkedin.com/in/kevin-orta-7334391b4/)">IT Support Specialist</a></h1>
+<h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevTheWebDev">Programmer</a> & <a href="https://www.linkedin.com/in/kevin-orta-7334391b4/">IT Support Specialist</a></h1>
 
 <h2>👾 Software Development Projects:</h2>
 
