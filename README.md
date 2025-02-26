@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevTheWebDev">Programmer</a>, <a href="(https://www.linkedin.com/in/kevin-orta-7334391b4/)">IT Support Specialist</a></h1>
 
-<!--
-**KevTheWebDev/KevTheWebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👾 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Data Structures and Algorithms Practice</b>
+- <b>PowerShell</b>
+- <b>C# (.NET Desktop Applications)</b>
+- <b>Python</b>
+- [Google Flights Price Updater with Telegram Notification Functionality]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2> 🚀 Connect with me:</h2>
+
+[<img align="left" alt="KevinOrta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: (https://www.linkedin.com/in/kevin-orta-7334391b4/)
