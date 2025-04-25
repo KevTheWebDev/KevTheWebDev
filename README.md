@@ -6,7 +6,8 @@
 - <b>PowerShell</b>
 - <b>C# (.NET Desktop Applications)</b>
 - <b>Python</b>
--  [Google Flights Price Updater with Telegram Notification Functionality]()
+<a href="https://github.com/KevTheWebDev/KevTheWebDev"><div> -Google Flights Price Updater with Telegram Notification Functionality </div></a>
+<a href="https://github.com/KevTheWebDev/Threat-Intel-Gathering-Script"><div> -Threat Intel Gathering Script </div></a>
 
 
 <h2> 🚀 Connect with me:</h2>
